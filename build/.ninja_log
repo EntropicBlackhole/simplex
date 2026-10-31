@@ -1,0 +1,15 @@
+# ninja log v7
+3	3755	8151685855917187	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+3761	3979	8151685893510225	simplex.exe	57ec5782e7eda17d
+29	5845	8151693293030527	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+5846	6177	8151693351251698	simplex.exe	57ec5782e7eda17d
+19	7351	8151704647430166	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+7351	7721	8151704720757483	simplex.exe	57ec5782e7eda17d
+8	9577	8151719842171524	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+9578	10425	8151719937872850	simplex.exe	57ec5782e7eda17d
+30	4652	8151737213933153	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+4654	4913	8151737260164648	simplex.exe	57ec5782e7eda17d
+12	4744	8151754303542706	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+4744	4997	8151754350870830	simplex.exe	57ec5782e7eda17d
+27	9126	8151762634258466	CMakeFiles/simplex.dir/src/main.cpp.obj	94936bffcdf84eeb
+9129	9567	8151762725252801	simplex.exe	57ec5782e7eda17d
